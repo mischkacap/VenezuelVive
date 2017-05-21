@@ -1,0 +1,25 @@
+
+header {text-align: center;}
+li {display: inline;
+ text-align: center;
+color: black;}
+
+a:link { text-decoration: none;
+    color: black;}
+
+ body {font-family: 'Playfair Display', serif;
+font-family: 'Lora', serif;}
+
+h2{text-align: center;
+	font-size: 26px ;}
+
+	.logo{padding-top: 1em;}
+	h6 {font-size: 20px;
+	}
+
+	.border {padding-top: 1em;}
+
+	.letter { border-style:solid;
+	padding-top: 1em; }
+
+ #red {color: red;}
